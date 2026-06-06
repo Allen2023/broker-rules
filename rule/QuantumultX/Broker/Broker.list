@@ -1,11 +1,11 @@
 # NAME: Broker
 # AUTHOR: MsMc
-# REPO: https://github.com/masnmarc/broker-rules
-# UPDATED: 2026-05-30
+# REPO: https://github.com/Allen2023/broker-rules
+# UPDATED: 2026-06-06
 # HOST-SUFFIX: 49
-# HOST: 10
+# HOST: 18
 # IP-CIDR: 18
-# TOTAL: 77
+# TOTAL: 85
 HOST-SUFFIX,futuhk.com,Broker
 HOST-SUFFIX,futu.link,Broker
 HOST-SUFFIX,futunn.com,Broker
@@ -55,6 +55,14 @@ HOST-SUFFIX,schwab.com,Broker
 HOST-SUFFIX,schwab.com.cn,Broker
 HOST-SUFFIX,schwab.com.hk,Broker
 HOST-SUFFIX,schwab.co.uk,Broker
+HOST,qtcard.futunn.com,Broker
+HOST,qtcardfthk.futufin.com,Broker
+HOST,openapi.futunn.com,Broker
+HOST,api.futunn.com,Broker
+HOST,api5.futunn.com,Broker
+HOST,trade.futunn.com,Broker
+HOST,support.futunn.com,Broker
+HOST,download.futunn.com,Broker
 HOST,cdn.futustatic.com,Broker
 HOST,quote.longbridge.global,Broker
 HOST,trade.longportapp.com,Broker
